@@ -3,7 +3,7 @@ I'm Jess, a Full-Stack Developer in progress. Here you can look at my apprentice
 
 
 ## About me 🙋‍♀️
-- 🌱 I’m currently learning JavaScript, React, PhP, SQL, and Laravel
+- 🌱 I’m currently learning JavaScript, React, PhP, MySQL, SQL, and Laravel
 - 👯 I’m looking to collaborate on any project education/social related
 - ✨ I am also interested in UX/UI
 - 📫 You can reach me at my 👉 [LinkedIn](https://www.linkedin.com/in/jessica-rios-maneiro/) 
