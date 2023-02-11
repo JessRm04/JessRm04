@@ -2,7 +2,7 @@
 I'm Jess, a Full-Stack Developer in progress. Here you can look at my apprenticeship :)
 
 
-## About me 🙋‍♀️
+## About me :octocat:
 - 🌱 I’m currently learning JavaScript, React, PhP, MySQL, SQL, and Laravel
 - 👯 I’m looking to collaborate on any project education/social related
 - ✨ I am also interested in UX/UI
