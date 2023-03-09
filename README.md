@@ -9,5 +9,5 @@
 
 ## Badges :medal_sports:
 
-[https://www.credly.com/badges/95d408a3-a674-44dd-8075-f5e23168094b/public_url]
-[https://www.scrummanager.com/intranet/files/credential/6/smalllogo.png?1678363651044]
+(https://www.credly.com/badges/95d408a3-a674-44dd-8075-f5e23168094b/public_url)
+(https://www.scrummanager.com/intranet/files/credential/6/smalllogo.png?1678363651044)
