@@ -7,3 +7,6 @@
 - 📫 You can reach me at my 👉 [LinkedIn](https://www.linkedin.com/in/jessica-rios-maneiro/) 
 - ⚡ Fun fact: Not knowing I'd learn web development at some point of my life, I worked A LOT bringing people closer to technology, as I always have trusted in tech to solve real life problems. 
 
+## Badges :medal_sports:
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="95d408a3-a674-44dd-8075-f5e23168094b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
