@@ -1,6 +1,6 @@
 ## About me :octocat:
 
-[![Typing SVG](https://readme-typing-svg.demolab.comfont=Fira+Code&pause=1000&color=C570E1&width=435&lines=Hello+World!+It's+Jess!+;Full+Stack+Developer+and+React+lover+%3C3)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.comfont=Fira+Code&pause=1000&color=C570E1&width=435&lines=Hello+World!+It's+Jess!+;Full+Stack+Developer+and+React+lover+%3C3)](https://git.io/typing-svg)
 - 🌱 I’m currently learning JavaScript, React, PhP, MySQL, SQL, and Laravel
 - 👯 I’m looking to collaborate on any project education/social related
 - ✨ I am also interested in UX/UI
