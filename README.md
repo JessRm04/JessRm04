@@ -1,7 +1,4 @@
-### Hi there, it's Jess! 👋
-I'm Jess, a Full-Stack Developer in progress. Here you can look at my apprenticeship :)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C570E1&width=435&lines=Hello+World!+It's+Jess+;Full+Stack+Developer+and+React+lover+%3C3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C570E1&width=435&lines=Hello+World!+It's+Jess!+;Full+Stack+Developer+and+React+lover+%3C3)](https://git.io/typing-svg) 👋
 
 ## About me :octocat:
 - 🌱 I’m currently learning JavaScript, React, PhP, MySQL, SQL, and Laravel
