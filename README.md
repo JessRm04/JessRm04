@@ -11,3 +11,4 @@
 
  ![UX Designer](https://images.credly.com/size/220x220/images/dd747f80-8831-4034-89eb-9f9f08496a3e/image.png)
  ![Scrum Manager](https://www.scrummanager.com/intranet/files/credential/6/smalllogo.png?1678363651044)
+ <img src="https://www.scrummanager.com/intranet/files/credential/6/smalllogo.png?1678363651044"></img>
