@@ -20,7 +20,6 @@
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.8XsXIPxX7twobsKwzmwkKAHaHa?pid=ImgDet&rs=1original.svg" alt="laravel" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/114427205/227335376-9b93400f-0dc4-4951-a9ac-4fdb732da47f.png" alt="mysql" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/max/3200/1*El82DHzQwuFxMIXzBzKjUA.png" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://penpot.app/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/R.76a7417f326329ead03e5b2b56b442a6?rik=llvcv0eV4JtfBw&pid=ImgRaw&r=0" alt="penpot" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://vitejs.dev" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/114427205/227336586-260a21c3-118a-4b8f-862f-7e7ba6179c14.png" alt="vite" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
