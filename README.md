@@ -1,8 +1,8 @@
 ## About me :octocat:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DC42CE&center=true&multiline=true&width=435&lines=Hello+World!+It's+Jess!;FullStack+Developer+and+React+Lover)](https://git.io/typing-svg)
-- 🌱 I’m currently getting better at React and Laravel
-- ⚡Also learning data science with SQL, Python and Mongo db
+- 🌱 The tools I've used the most are React and Laravel, but I learn fast ;) 
+- ⚡Also learning data science with SQL, Mongo db and Python
 - 👯 I’m looking to collaborate on any project education / social related
 - ✨ I am also interested in UX/UI
 - 📫 You can reach me at my 👉 [LinkedIn](https://www.linkedin.com/in/jessica-rios-maneiro/) 
